@@ -89,6 +89,10 @@ Used as an indicator that warns the driver of the changing speed limits - theref
 
 ![RECEIVER SCHEMATIC](https://github.com/KaburaJ/Dynamic-Speed-Governor/blob/main/DEVELOPMENT/Images/TRANSMITTER-RECEIVER%20SIMULATION.PNG)
 
+Receiver PCB results:
+
+![RECEIVER 3D](https://github.com/KaburaJ/Dynamic-Speed-Governor/blob/main/DEVELOPMENT/Images/RECEIVER.PNG)
+
 ## WORKFLOW
 
 ![WORKFLOW](https://github.com/KaburaJ/Dynamic-Speed-Governor/blob/main/DEVELOPMENT/Images/PROCEDURE.PNG)
