@@ -6,7 +6,7 @@ This repository contains the workflow of a dynamic speed governor. Designed to c
 ---
 
 ## PROBLEM STATEMENT
-Overspeeding is among the leading causes of road carnage. Loss of valuable lives as well as destruction of property arise as a result of these accidents. Consequently, the government has erected signposts indicating the speed limit of a certain area. Other measures include the use of traffic lights as well as speed detectors. The project aims to infor  the driver about the zones and the speed limit automatically, which is done by means of using RF technology. The objective of this project is to 
+Overspeeding is among the leading causes of road carnage. Loss of valuable lives as well as destruction of property arise as a result of these accidents. Consequently, the government has erected signposts indicating the speed limit of a certain area. Other measures include the use of traffic lights as well as speed detectors. The project aims to inform  the driver about the zones and the speed limit automatically, which is done by means of using RF technology. The objective of this project is to 
 automatically control the speed of the vehicles at speed restricted areas such as schools and hospitals.  
 
 ## HOW?
