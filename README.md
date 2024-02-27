@@ -15,6 +15,8 @@ At particular zones (specifically those with existing signposts), transmitters w
 ## IMPLEMENTATION
 This was done using `Arduino`, `Proteus` and `KiCad` softwares. 
 
+![PROJECT DEMO](https://github.com/KaburaJ/Dynamic-Speed-Governor/blob/main/DEVELOPMENT/Images/rf_demo.PNG)
+
 ## COMPONENTS USED
 
 ### For the transmitter circuit: 
